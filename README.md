@@ -25,10 +25,13 @@ Finger Battle is a 2-player competitive tap game where **Player A** taps the **R
 1. Clone the repository
    ```bash
    git clone https://github.com/Sharmilaait58/flutter-finger-tap-game.git
+   
 2. Get dependencies
    flutter pub get
+   
 3. Run the app
    flutter run
+   
 🛠️ Tech Stack
 - *Framework*: Flutter 3.x
 - *Language*: Dart
@@ -55,9 +58,8 @@ Contributions are welcome!
 📄 License
 This project is open source and available under the MIT License.
 
-
 👩‍💻 Author
 *Sharmila*  
 GitHub: https://github.com/Sharmilaait58
 
-If you like this project, please give it a 
+If you like this project, please give it a ⭐
