@@ -1,10 +1,12 @@
 🔥 Flutter Finger Tap Battle Game
+
 A fast-paced 2-player tap battle game built with Flutter. Player A vs Player B. First to fill the screen wins!
 
 🎬 Demo
 ![Demo Video](InShot_20260803_230113940.mp4)
 
 🎮 Gameplay
+
 Finger Battle is a 2-player competitive tap game where **Player A** taps the **RED** bottom half and **Player B** taps the **BLUE** top half. Each tap grows your side by 30px and gives +5 points while shrinking the opponent's side. The first player to fill 90% of the screen wins the match.
 
 ✨ Features
