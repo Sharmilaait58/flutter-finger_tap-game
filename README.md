@@ -2,8 +2,10 @@
 
 A fast-paced 2-player tap battle game built with Flutter. Player A vs Player B. First to fill the screen wins!
 
+
 🎬 Demo
 ![Demo Video](InShot_20260803_230113940.mp4)
+
 
 🎮 Gameplay
 
@@ -61,7 +63,9 @@ Contributions are welcome!
 This project is open source and available under the MIT License.
 
 👩‍💻 Author
+
 *Sharmila*  
+
 GitHub: https://github.com/Sharmilaait58
 
 If you like this project, please give it a ⭐
