@@ -4,6 +4,7 @@ A fast-paced 2-player tap battle game built with Flutter. Player A vs Player B. 
 
 
 🎬 Demo
+
 ![Demo Video](InShot_20260803_230113940.mp4)
 
 
