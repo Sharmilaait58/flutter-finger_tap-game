@@ -72,8 +72,8 @@ This project is open source and available under the MIT License.
 
 👩‍💻 𝗔𝘂𝘁𝗵𝗼𝗿
 
-*Sharmila*  
-
+𝗦𝗵𝗮𝗿𝗺𝗶𝗹𝗮
+  
 GitHub: https://github.com/Sharmilaait58
 
 If you like this project, please give it a ⭐
