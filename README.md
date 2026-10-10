@@ -3,7 +3,7 @@
 fast-paced 2-player tap battle game built with Flutter. Player A vs Player B. First to fill the screen wins!
 
 
-🎬 𝗗𝗲𝗺𝗼
+🎬 𝗗𝗲𝗺𝗼 𝗩𝗶𝗱𝗲𝗼
 
 https://raw.githubusercontent.com/Sharmilaait58/flutter-finger_tap-game/main/InShot_20260803_230113940.mp4
 
